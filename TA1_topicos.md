@@ -118,6 +118,7 @@ La función objetivo se define de la siguiente manera:
 
 
 **Referencias bibliográficas**
+
 Francesca Rossi, Peter van Beek, and Toby Walsh. 2006. Handbook of Constraint Programming. Elsevier Science Inc., USA.
 
 Google for developers(2024, 13 de marzo) Constraint Optimization. Google OR-Tools. Recuperado el 19 de abril del 2024, de [https://developers.google.com/optimization/cp](https://developers.google.com/optimization/cp)
